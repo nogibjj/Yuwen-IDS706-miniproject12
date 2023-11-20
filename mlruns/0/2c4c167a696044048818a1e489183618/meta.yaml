@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Desktop/IDS-706/Yuwen-IDS706-miniproject12/mlruns/0/2c4c167a696044048818a1e489183618/artifacts
+end_time: 1700500101997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c4c167a696044048818a1e489183618
+run_name: shivering-midge-458
+run_uuid: 2c4c167a696044048818a1e489183618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700500100272
+status: 4
+tags: []
+user_id: apple

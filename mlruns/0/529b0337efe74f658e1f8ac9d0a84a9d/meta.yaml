@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Desktop/IDS-706/Yuwen-IDS706-miniproject12/mlruns/0/529b0337efe74f658e1f8ac9d0a84a9d/artifacts
+end_time: 1700500805591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 529b0337efe74f658e1f8ac9d0a84a9d
+run_name: ''
+run_uuid: 529b0337efe74f658e1f8ac9d0a84a9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700500802982
+status: 3
+tags: []
+user_id: apple
