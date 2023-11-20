@@ -1,6 +1,10 @@
 # IDS706-miniProject 12
 Duke IDS 706 Data Engineering Project: working with MLflow Project
+
+
 Updating from https://github.com/nogibjj/python-template
+
+
 Followed tutorial from https://www.coursera.org/learn/mlops-mlflow-huggingface-duke/lecture/KKsD1/create-an-mlflow-project
 
 
